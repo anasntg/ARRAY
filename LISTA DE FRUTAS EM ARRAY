@@ -1,0 +1,8 @@
+// Lista de frutas na array com 10 itens. 
+let lista = ["Maça", "Banana", "Uva", "Laranja", "Abacaxi", "Manga", "Melancia", "Pera", "Kiwi","Morango"];
+
+// Mostrar os valores do ARRAY.
+console.log("Lista de Frutas:");
+for (let i = 0; i < lista.length; i++){
+    console.log(lista[i]);
+}
